@@ -1,8 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:5e60ce,50:6930c3,100:7400b8&text=Paulo%20Henrique&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Frontend%20Developer%20Jr&descAlignY=65&descAlign=50&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+:%29)](https://git.io/typing-svg)
-
-
 ## Who is me?
 
 ```js
