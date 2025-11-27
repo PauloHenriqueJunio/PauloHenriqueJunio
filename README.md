@@ -22,14 +22,6 @@ console.log(controller.create());
 
 ---
 
-<div>
-<a height="150em" href="http://www.github.com/PauloHenriqueJunio">
-  <img height='240em' src='https://github-readme-streak-stats.herokuapp.com?user=PauloHenriqueJunio&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
-</a>
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=EXPERIENCES&fontAlignY=50&fontColor=ffffff&desc=My%20Tech%20Stack&descAlignY=85&descAlign=50" width="100%" />
 
 ### Frontend  
