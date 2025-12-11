@@ -75,14 +75,6 @@ console.log(controller.create());
 
 ---
 
-## Quote
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&center=true&vCenter=true&width=700&height=60&lines=Sempre+evoluindo,+um+commit+por+vez.;Sempre+querendo+algo+novo.;Construindo+hoje+o+que+eu+queria+ontem." />
-</p>
-
----
-
 ## Roadmap 2025
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=110&section=header&text=My%20Dev%20Journey%202025&fontAlignY=50&fontColor=ffffff&desc=The%20Path%20I'm%20Building&descAlign=50&descAlignY=80" width="100%" />
