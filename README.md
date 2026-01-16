@@ -78,12 +78,14 @@ console.log(controller.create());
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 07 January 2026 - To: 14 January 2026
+From: 08 January 2026 - To: 15 January 2026
 
-Total Time: 3 hrs 40 mins
+Total Time: 4 hrs 51 mins
 
-TypeScript   3 hrs 40 mins   █████████████████████████   99.89 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript   4 hrs 27 mins   ███████████████████████░░   91.94 %
+Markdown     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
