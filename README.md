@@ -78,19 +78,20 @@ console.log(controller.create());
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 20 January 2026 - To: 27 January 2026
+From: 21 January 2026 - To: 28 January 2026
 
-Total Time: 21 hrs 27 mins
+Total Time: 16 hrs 5 mins
 
-TypeScript   12 hrs 46 mins  ██████████████▓░░░░░░░░░░   59.21 %
-Python       5 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
-Markdown     1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-JavaScript   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-YAML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Git Config   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   9 hrs 13 mins   ██████████████▒░░░░░░░░░░   56.84 %
+Python       4 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
+Markdown     1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+JavaScript   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Git Config   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
