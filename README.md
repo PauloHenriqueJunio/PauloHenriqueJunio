@@ -2,19 +2,20 @@
 
 ## Who is me?
 
-```js
-class UserController {
-  create() {
-    return {
-      name: 'Paulo Henrique Junio',
-      email: 'paulohenriquejunio@hotmail.com',
-      age: 22
-    }
-  }
+```ts
+interface IDeveloper {
+  name: string;
+  age: number;
+  email: string;
 }
 
-const controller = new UserController();
-console.log(controller.create());
+const me: IDeveloper = {
+  name: "Paulo Henrique Junio",
+  age: 22,
+  email: "paulohenriquejunio@hotmail.com",
+};
+
+console.table(me);
 ```
 
 [![Linkedin Badge](https://img.shields.io/badge/-MeuLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-junio/)](https://www.linkedin.com/in/paulo-henrique-junio/)
