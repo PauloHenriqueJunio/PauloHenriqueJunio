@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:5e60ce,50:6930c3,100:7400b8&text=Paulo%20Henrique&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Frontend%20Developer%20Jr&descAlignY=65&descAlign=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:5e60ce,50:6930c3,100:7400b8&text=Paulo%20Henrique&fontColor=ffffff&fontSize=animation=fadeIn" />
 
 ## Who is me?
 
