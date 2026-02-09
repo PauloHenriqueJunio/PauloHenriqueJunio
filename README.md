@@ -93,7 +93,7 @@ Other        7 mins          ▓░░░░░░░░░░░░░░░░
 
 ---
 
-## Roadmap 2025
+## Roadmap 2026
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=110&section=header&text=My%20Dev%20Journey%202025&fontAlignY=50&fontColor=ffffff&desc=The%20Path%20I'm%20Building&descAlign=50&descAlignY=80" width="100%" />
 
