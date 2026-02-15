@@ -79,13 +79,14 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 06 February 2026 - To: 13 February 2026
+From: 07 February 2026 - To: 14 February 2026
 
-Total Time: 6 hrs 18 mins
+Total Time: 6 hrs 57 mins
 
-TypeScript   4 hrs 9 mins    ████████████████▒░░░░░░░░   65.92 %
-CSS          2 hrs 8 mins    ████████▒░░░░░░░░░░░░░░░░   33.96 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript   5 hrs 15 mins   ███████████████████░░░░░░   75.50 %
+CSS          1 hr 41 mins    ██████░░░░░░░░░░░░░░░░░░░   24.34 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
