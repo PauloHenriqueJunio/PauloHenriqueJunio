@@ -79,13 +79,17 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 25 February 2026 - To: 04 March 2026
+From: 26 February 2026 - To: 05 March 2026
 
-Total Time: 2 hrs 33 mins
+Total Time: 2 hrs 14 mins
 
-TypeScript   2 hrs 20 mins         ███████████████████████░░   91.66 %
-Python       11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-CSS          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+TypeScript   1 hr 38 mins          ████████████████▓░░░░░░░░   66.92 %
+Bash         18 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+Other        11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Python       11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Git Config   5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+CSS          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+INI          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
