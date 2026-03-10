@@ -79,17 +79,20 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 01 March 2026 - To: 08 March 2026
+From: 02 March 2026 - To: 09 March 2026
 
-Total Time: 2 hrs 51 mins
+Total Time: 5 hrs 39 mins
 
-TypeScript   1 hr 28 mins          ████████████░░░░░░░░░░░░░   48.19 %
-Kotlin       48 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
-Bash         18 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-Other        11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Python       11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Git Config   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-INI          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin         3 hrs 9 mins          █████████████▒░░░░░░░░░░░   53.95 %
+TypeScript     1 hr 28 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+Python         29 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+Bash           18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Other          12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Markdown       6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Git Config     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+XML            1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Shell Script   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+INI            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
