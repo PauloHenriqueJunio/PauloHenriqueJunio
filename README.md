@@ -11,7 +11,7 @@ interface IDeveloper {
 
 const me: IDeveloper = {
   name: "Paulo Henrique Junio",
-  age: 22,
+  age: 23,
   email: "paulohenriquejunio@hotmail.com",
 };
 
