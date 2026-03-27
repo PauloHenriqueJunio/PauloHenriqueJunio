@@ -98,33 +98,6 @@ Prisma            4 mins                ░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-
-## Roadmap 2026
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=110&section=header&text=My%20Dev%20Journey%202025&fontAlignY=50&fontColor=ffffff&desc=The%20Path%20I'm%20Building&descAlign=50&descAlignY=80" width="100%" />
-
-#### **Frontend**
-- Aprimorar React + Hooks avançados
-- Criar UI’s mais profissionais com Tailwind CSS 
-- Dominar padrões de componentes reutilizáveis
-
-#### **Backend**
-- Evoluir em Node.js + Express
-- Construir APIs mais robustas e seguras
-- Estudos iniciais de arquiteturas maiores
-
-#### **Cloud / DevOps**
-- Continuar experiência com Docker  
-- Entender profundamente Kubernetes  
-- Aprender Helm Charts  
-- Praticar CI/CD e GitHub Actions  
-- Workflow simples com ArgoCD  
-
-#### **Soft Skills & Prática**
-- Criar projetos do zero  
-- Aprender boas práticas de código  
-- Criar portfólio visual bonito e organizado  
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=footer" width="100%" />
 </p>
