@@ -79,19 +79,20 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 31 March 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
-Total Time: 10 hrs 27 mins
+Total Time: 7 hrs 42 mins
 
-TypeScript   9 hrs 31 mins         ██████████████████████▓░░   90.98 %
-Prisma       16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Markdown     15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Bash         14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-JavaScript   6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-TSConfig     2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-SQL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript        6 hrs 36 mins         █████████████████████▒░░░   85.62 %
+Markdown          27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Bash              17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Java Properties   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+XML               5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Kotlin            4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+TSConfig          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Prisma            2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Properties        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
