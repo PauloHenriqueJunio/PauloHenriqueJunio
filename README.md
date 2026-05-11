@@ -79,17 +79,16 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 02 May 2026 - To: 09 May 2026
+From: 03 May 2026 - To: 10 May 2026
 
-Total Time: 7 hrs 50 mins
+Total Time: 7 hrs 32 mins
 
-TypeScript    7 hrs 18 mins         ██████████████░░░░░░░░░░░   55.61 %
-Other         5 hrs 17 mins         ██████████░░░░░░░░░░░░░░░   40.30 %
-Markdown      15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-JSON          10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Image (png)   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Image (svg)   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-YAML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript    7 hrs 3 mins          ██████████████▒░░░░░░░░░░   57.92 %
+Other         4 hrs 38 mins         █████████▓░░░░░░░░░░░░░░░   38.13 %
+Markdown      12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+JSON          10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Image (png)   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Image (svg)   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Prisma        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
