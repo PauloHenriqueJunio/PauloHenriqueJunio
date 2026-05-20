@@ -79,17 +79,18 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 11 May 2026 - To: 18 May 2026
+From: 12 May 2026 - To: 19 May 2026
 
-Total Time: 2 hrs 38 mins
+Total Time: 6 hrs 20 mins
 
-Other         1 hr 50 mins          ██████████▒░░░░░░░░░░░░░░   41.00 %
-TypeScript    1 hr 44 mins          █████████▓░░░░░░░░░░░░░░░   38.65 %
-Markdown      30 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-JSON          16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-JavaScript    5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Git Config    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Image (png)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+JavaScript    3 hrs 7 mins          █████████▒░░░░░░░░░░░░░░░   37.74 %
+Other         1 hr 55 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+TypeScript    1 hr 44 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+Markdown      42 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+JSON          34 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Bash          10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Git Config    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Image (png)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
