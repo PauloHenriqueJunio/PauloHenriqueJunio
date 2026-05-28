@@ -79,18 +79,14 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 19 May 2026 - To: 26 May 2026
+From: 20 May 2026 - To: 27 May 2026
 
-Total Time: 7 hrs 30 mins
+Total Time: 5 hrs 7 mins
 
-HTML           4 hrs 25 mins         ██████████████░░░░░░░░░░░   56.40 %
-JavaScript     52 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-TypeScript     41 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Python         36 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Bash           36 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Other          20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-JSON           13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Image (jpeg)   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+HTML           4 hrs 25 mins         █████████████████████▒░░░   85.72 %
+Python         36 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Image (jpeg)   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Other          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
