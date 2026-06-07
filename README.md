@@ -79,20 +79,20 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 28 May 2026 - To: 04 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 3 hrs 44 mins
+Total Time: 5 hrs 15 mins
 
-TypeScript    2 hrs 9 mins          █████████████░░░░░░░░░░░░   52.41 %
-JavaScript    44 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
-Other         22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Python        22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-Prisma        10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Bash          9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Markdown      4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Git Config    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-CSV           1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-JSON          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   2 hrs 30 mins         ███████████░░░░░░░░░░░░░░   44.62 %
+TypeScript   1 hr 22 mins          ██████░░░░░░░░░░░░░░░░░░░   24.35 %
+Python       45 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Other        22 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Markdown     11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Prisma       10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Bash         9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Git Config   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+CSV          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+PowerShell   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
