@@ -79,20 +79,20 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 20 June 2026 - To: 27 June 2026
+From: 21 June 2026 - To: 28 June 2026
 
-Total Time: 9 hrs 34 mins
+Total Time: 10 hrs 47 mins
 
-TypeScript       3 hrs 53 mins         █████████▒░░░░░░░░░░░░░░░   36.91 %
-Python           1 hr 43 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-GDScript3        1 hr 42 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
-Godot Resource   1 hr 33 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-Other            57 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-CSS              20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Markdown         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-SQL              4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-YAML             4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Docker           2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+TypeScript       4 hrs 36 mins         █████████▓░░░░░░░░░░░░░░░   38.80 %
+Python           1 hr 47 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+GDScript3        1 hr 42 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
+Godot Resource   1 hr 33 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Other            1 hr 6 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+CSS              20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+SQL              16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Bash             11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Markdown         6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+YAML             4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
