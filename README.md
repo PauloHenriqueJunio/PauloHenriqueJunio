@@ -79,15 +79,18 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 02 August 2026 - To: 09 August 2026
+From: 03 August 2026 - To: 10 August 2026
 
-Total Time: 1 hr 41 mins
+Total Time: 1 hr 9 mins
 
-PowerShell   49 mins               ████████████▒░░░░░░░░░░░░   48.90 %
-Markdown     38 mins               █████████▓░░░░░░░░░░░░░░░   38.33 %
-JSON         7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Python       2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Text         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+TypeScript   37 mins               █████████████▓░░░░░░░░░░░   54.38 %
+Markdown     10 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Python       7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+HTML         6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+CSS          3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+JavaScript   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+JSON         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
