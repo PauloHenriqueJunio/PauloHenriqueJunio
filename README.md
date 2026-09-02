@@ -79,16 +79,16 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 24 August 2026 - To: 31 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-Total Time: 12 hrs 41 mins
+Total Time: 12 hrs 39 mins
 
-TypeScript    9 hrs 55 mins         ███████████████████▒░░░░░   76.88 %
-Markdown      37 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-JSON          34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-HTML          25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-CSS           21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Bash          16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+TypeScript    9 hrs 55 mins         ███████████████████▒░░░░░   77.13 %
+Markdown      37 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+JSON          34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+HTML          25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+CSS           21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Bash          16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 Other         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 YAML          9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 JavaScript    8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
