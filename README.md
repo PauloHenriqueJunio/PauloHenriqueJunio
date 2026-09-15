@@ -79,15 +79,15 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 06 September 2026 - To: 13 September 2026
+From: 07 September 2026 - To: 14 September 2026
 
-Total Time: 13 mins
+Total Time: 35 mins
 
-Markdown   10 mins               ███████████████████░░░░░░   76.08 %
-JSON       1 min                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-Python     1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Other      0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown   19 mins               █████████████▓░░░░░░░░░░░   54.18 %
+Python     14 mins               ██████████░░░░░░░░░░░░░░░   40.34 %
+JSON       1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Other      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
