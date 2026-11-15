@@ -79,15 +79,15 @@ console.table(me);
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 06 November 2026 - To: 13 November 2026
+From: 07 November 2026 - To: 14 November 2026
 
 Total Time: 2 hrs 54 mins
 
-Python       1 hr 53 mins          ██████████▒░░░░░░░░░░░░░░   40.72 %
-Other        1 hr 43 mins          █████████▒░░░░░░░░░░░░░░░   37.25 %
-Markdown     41 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-JSON         15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Git Config   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Python       1 hr 53 mins          ██████████████▒░░░░░░░░░░   57.21 %
+Markdown     41 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+Other        23 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+JSON         15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+Git Config   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
