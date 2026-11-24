@@ -10,7 +10,9 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - id: waka
+        uses: athul/waka-readme@master
+        continue-on-error: true
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -20,3 +22,6 @@ jobs:
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
+      - name: Warn when WakaTime metrics cannot be fetched
+        if: steps.waka.outcome == 'failure'
+        run: echo "::warning::WakaTime request failed (403 Forbidden). Update WAKATIME_API_KEY with a valid WakaTime OAuth token."
